@@ -1,0 +1,72 @@
+/* - - - - - - page - - - - - - */
+html, body {
+    scroll-behavior: smooth;
+}
+
+
+
+/* - - - - - - header - - - - - - */
+
+
+
+
+/* - - - - - - content - - - - - - */
+.box {
+    margin-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 200px;
+}
+
+.box:hover {
+    filter:brightness(130%);
+}
+
+.box p {
+    padding-top: 75px;
+    font-size: xx-large;
+    color: black;
+    text-decoration: none;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+
+#lightBlue {
+    background-color: #ADD8E6;
+}
+
+#moccasin {
+    background-color: #FFE4B5;
+}
+
+#lightCyan {
+    background-color: #E0FFFF;
+}
+
+#darkOrhid {
+    background-color: #9932CC;
+}
+
+#gold {
+    background-color: #FFD700;
+}
+
+#darkSalmon {
+    background-color: #E9967A;
+}
+
+#gainsboro {
+    background-color: #DCDCDC;
+}
+
+#green {
+    background-color: green;
+}
+
+
+
+
+/* - - - - - - footer - - - - - - */
