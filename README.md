@@ -1,7 +1,7 @@
 # speed-dial - my first web page
 Simple web page created with Bootstrap
 
-##Technologies
+## Technologies
 ⋅⋅* HTML5
 ⋅⋅* CSS3
 ⋅⋅* jQuery 3.6.0
